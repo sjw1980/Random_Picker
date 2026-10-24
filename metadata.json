@@ -1,0 +1,6 @@
+{
+  "name": "결정의 순간 - 올인원 랜덤 추첨기 & 사다리",
+  "description": "줄바꿈 항목 무작위 추첨, 대화형 룰렛 돌림판, 사다리 타기 게임, 로또 번호 및 범위 난수 생성기",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
